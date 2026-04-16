@@ -1,0 +1,252 @@
+{
+    "bases": [
+        {
+            "_id": "6862cb3c54d0cd7c6279dd34",
+            "name": "Thin Crust",
+            "type": "base",
+            "quantity": 49,
+            "threshold": 10,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd35",
+            "name": "Thick Crust",
+            "type": "base",
+            "quantity": 45,
+            "threshold": 10,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd36",
+            "name": "Stuffed Crust",
+            "type": "base",
+            "quantity": 30,
+            "threshold": 8,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd37",
+            "name": "Gluten-Free Base",
+            "type": "base",
+            "quantity": 25,
+            "threshold": 5,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd38",
+            "name": "Whole Wheat Base",
+            "type": "base",
+            "quantity": 35,
+            "threshold": 8,
+            "__v": 0
+        }
+    ],
+    "sauces": [
+        {
+            "_id": "6862cb3c54d0cd7c6279dd39",
+            "name": "Tomato Sauce",
+            "type": "sauce",
+            "quantity": 39,
+            "threshold": 12,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd3a",
+            "name": "BBQ Sauce",
+            "type": "sauce",
+            "quantity": 35,
+            "threshold": 10,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd3b",
+            "name": "White Sauce",
+            "type": "sauce",
+            "quantity": 30,
+            "threshold": 8,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd3c",
+            "name": "Pesto Sauce",
+            "type": "sauce",
+            "quantity": 25,
+            "threshold": 6,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd3d",
+            "name": "Spicy Sauce",
+            "type": "sauce",
+            "quantity": 38,
+            "threshold": 10,
+            "__v": 0
+        }
+    ],
+    "cheeses": [
+        {
+            "_id": "6862cb3c54d0cd7c6279dd3e",
+            "name": "Mozzarella",
+            "type": "cheese",
+            "quantity": 59,
+            "threshold": 15,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd3f",
+            "name": "Cheddar",
+            "type": "cheese",
+            "quantity": 45,
+            "threshold": 12,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd40",
+            "name": "Parmesan",
+            "type": "cheese",
+            "quantity": 35,
+            "threshold": 10,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd41",
+            "name": "Goat Cheese",
+            "type": "cheese",
+            "quantity": 25,
+            "threshold": 8,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd42",
+            "name": "Blue Cheese",
+            "type": "cheese",
+            "quantity": 20,
+            "threshold": 5,
+            "__v": 0
+        }
+    ],
+    "veggies": [
+        {
+            "_id": "6862cb3c54d0cd7c6279dd43",
+            "name": "Bell Peppers",
+            "type": "veggie",
+            "quantity": 39,
+            "threshold": 12,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd44",
+            "name": "Mushrooms",
+            "type": "veggie",
+            "quantity": 34,
+            "threshold": 10,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd45",
+            "name": "Onions",
+            "type": "veggie",
+            "quantity": 45,
+            "threshold": 15,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd46",
+            "name": "Tomatoes",
+            "type": "veggie",
+            "quantity": 38,
+            "threshold": 12,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd47",
+            "name": "Olives",
+            "type": "veggie",
+            "quantity": 30,
+            "threshold": 8,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd48",
+            "name": "Spinach",
+            "type": "veggie",
+            "quantity": 25,
+            "threshold": 8,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd49",
+            "name": "Corn",
+            "type": "veggie",
+            "quantity": 32,
+            "threshold": 10,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd4a",
+            "name": "Jalapeños",
+            "type": "veggie",
+            "quantity": 28,
+            "threshold": 8,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd4b",
+            "name": "Pineapple",
+            "type": "veggie",
+            "quantity": 22,
+            "threshold": 6,
+            "__v": 0
+        }
+    ],
+    "meats": [
+        {
+            "_id": "6862cb3c54d0cd7c6279dd4c",
+            "name": "Pepperoni",
+            "type": "meat",
+            "quantity": 49,
+            "threshold": 15,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd4d",
+            "name": "Italian Sausage",
+            "type": "meat",
+            "quantity": 40,
+            "threshold": 12,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd4e",
+            "name": "Ham",
+            "type": "meat",
+            "quantity": 35,
+            "threshold": 10,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd4f",
+            "name": "Bacon",
+            "type": "meat",
+            "quantity": 30,
+            "threshold": 10,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd50",
+            "name": "Chicken",
+            "type": "meat",
+            "quantity": 45,
+            "threshold": 12,
+            "__v": 0
+        },
+        {
+            "_id": "6862cb3c54d0cd7c6279dd51",
+            "name": "Ground Beef",
+            "type": "meat",
+            "quantity": 38,
+            "threshold": 12,
+            "__v": 0
+        }
+    ]
+}
